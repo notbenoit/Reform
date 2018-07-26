@@ -5,7 +5,7 @@
       location = "group:Example/Example.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:/Users/npe/dev/Form/Reform.xcodeproj">
+      location = "group:Reform.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Carthage/Checkouts/ReactiveSwift/ReactiveSwift.xcodeproj">
